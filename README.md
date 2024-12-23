@@ -11,7 +11,7 @@ image showing the:
     mapped to the British National Grid (CRS: 27700) using the Office for
     National Statistics Postcode Directory (ONSPD), November 2024 release.
 
-This repo contain a number of helper function for downloading 
+This repo contains a number of helper/interfacing functions for downloading 
 [Office for National Statistics](https://www.ons.gov.uk/) (ONS) datasets using 
 the [ONS API](https://developer.ons.gov.uk/) and another API behind the
 [ONS Open Geography portal](https://geoportal.statistics.gov.uk/).
