@@ -1,0 +1,12 @@
+Package: VIVID.SitesMap
+Type: Package
+Title: VIVID Sites Map
+Version: 1.0.0
+Description: Creation of sites map for the VIVID project.
+License: MPL-2.0 | file LICENSE
+Encoding: UTF-8
+Depends: R (>= 3.3.0)
+Imports: data.table (>= 1.9.8), ggplot2, ggrepel, httr, sf
+Authors@R: c(
+  person("Tony", "Stone", role=c("aut","cre"), email="tony.stone@sheffield.ac.uk", comment = c(ORCID="0000-0002-0167-3800"))
+  )
