@@ -6,7 +6,7 @@ image showing the:
 -   population density of England and Wales (based on Census 2021 Lower layer
     Super Output Areas [LSOAs] and Census 2021 population data)
 -   boundaries of the regions of England (formerly known as Government Office
-    Regions [GORs])
+    Regions [GORs]), December 2021 release.
 -   sites (point-based) supplied by the user, based on user-supplied postcodes
     mapped to the British National Grid (CRS: 27700) using the Office for
     National Statistics Postcode Directory (ONSPD), November 2024 release.
